@@ -111,3 +111,19 @@ Both rankings coincide in high-memorisation content, confirming the expected wor
 
 ## Library effect
 
+From June to January the distribution of daily hours shows a positive skew (mean **3.4 h**, median **2.99 h**).  
+Starting in September I commuted to the local library every weekday; the visual shift suggests higher productivity away from home.
+
+![hist global](images/histogram_hours_per_day.png)
+
+To quantify the difference the sample was split into two periods:
+
+- **Home period**: June – August  
+- **Library period**: September – January  
+
+![boxplot](images/boxplot_by_group.png)
+![hist p1](images/histogram_hours_per_day_p1.png)
+![hist p2](images/histogram_hours_per_day_p2.png)
+
+Shapiro-Wilk tests rejected normality for both groups (*p* < 0.05); therefore a two-sample Mann-Whitney U test was applied.  
+The result indicates a statistically significant difference (*U* = …, *p* < 0.001), confirming that daily study time was higher during the library phase.
