@@ -18,14 +18,17 @@ My logged activities:
 - **Anki Review** – reviewing cards  
 - **Exam Questions** – official or mock tests
 
-## Some funny numbers (Descriptive stats)
+## Some funny numbers (descriptive stats)
 
-The total study time was 774.4 hours, with a mean of 3.4h per day and a median of 2.99 hours per day.
+I clocked **774.4 h** in total, averaging **3.4 h/day** (mean) and **2.99 h/day** (median).
 
-Most of my time was spent in the Bear Hunter System with 336h (aprox 45% of the time), followed by Exam questions with 140h and active recall with 117h. 
+The biggest chunk went to the *Bear Hunter System* (**336 h**, ≈ 45 %), followed by exam questions (**140 h**) and active recall (**117 h**).
 
-[!linechar_cumsum_act](images/lineplot_cumsum_time_activites.png)
+![linechart_cumsum_act](images/lineplot_cumsum_time_activities.png)
 
+I didn’t skip a single study day from **17 Jun 2024** to **25 Jan 2025**, keeping a **224-day streak** alive; the leanest day was just **0.03 h** of Anki reviews.
+
+My peak week was the one right before the exam (**13–19 Jan 2025**) with **48 h** accumulated, including my all-time daily record of **9.59 h**.
 
 ## Which hours was I more productive?
 
