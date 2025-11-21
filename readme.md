@@ -1,5 +1,3 @@
-# 🚧 Work in Progress 🚧
-
 # BIR by the Numbers: My Study Journey in Data
 
 ## Why I did it
@@ -121,9 +119,9 @@ To quantify the difference the sample was split into two periods:
 - **Home period**: June – August  
 - **Library period**: September – January  
 
-![boxplot](images/boxplot_by_group.png)
 ![hist p1](images/histogram_hours_per_day_p1.png)
 ![hist p2](images/histogram_hours_per_day_p2.png)
+![boxplot](images/boxplot_by_group.png)
 
 Shapiro-Wilk tests rejected normality for both groups (*p* < 0.05); therefore a two-sample Mann-Whitney U test was applied.  
 The result indicates a statistically significant difference (*U* = …, *p* < 0.001), confirming that daily study time was higher during the library phase.
