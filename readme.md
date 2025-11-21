@@ -7,6 +7,7 @@
 - [Which hours was I more productive?](#which-hours-was-i-more-productive)
 - [Anki-related facts](#anki-related-facts)
 - [Library effect](#library-effect)
+- [Key takeaway points](#key-takeaway-points)
 
 
 ## Why I did it
@@ -134,3 +135,17 @@ To quantify the difference the sample was split into two periods:
 
 Shapiro-Wilk tests rejected normality for both groups (*p* < 0.05); therefore a two-sample Mann-Whitney U test was applied.  
 The result indicates a statistically significant difference (*p* < 0.001), confirming that daily study time was higher during the library phase.
+
+## Key takeaway points
+
+- **Perseverance in practice**  
+  224 consecutive study days, 774 logged hours, zero voluntary breaks. The streak became non-negotiable: rain, weekends or low-energy days, the timer always started.
+
+- **Evidence-based time & fatigue management**  
+  I assigned high-load tasks (Bear Hunter System) to the 09:00–11:00 energy peak and shifted batch-review sessions to the 16:00–18:00 window, making that slot my most productive despite the post-prandial dip. Median daily study time rose from 2.5 h (home period) to 3.4 h (library period).
+
+- **A reusable, systems-oriented pipeline**  
+  Flowmodoro provided the focus unit, Anki turned queue-time into micro-reviews, active-recall cycles tested mastery every 48 h, Flowmodoro’s last-week average motivated me to study more each day. Each component is domain-agnostic and already ported to other learning projects.
+
+- **Process-focus as noise-cancellation**  
+  Working in weekly chunks dedicated to a topic, with structured active-recall sessions, was the most powerful process to learn new material, giving me checkpoints to spot gaps in my knowledge, plus, active management of Anki cards was the key to achieving a high success rate on exam questions. Framing goals around controllable variables removed “Will I get a spot?” from daily mental space and freed cognitive bandwidth for the only question that mattered: “Did the process run perfectly today?” The ranking took care of itself—and when it didn’t, the system remained intact for the next challenge.
