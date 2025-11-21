@@ -24,7 +24,7 @@ The total study time was 774.4 hours, with a mean of 3.4h per day and a median o
 
 Most of my time was spent in the Bear Hunter System with 336h (aprox 45% of the time), followed by Exam questions with 140h and active recall with 117h. 
 
-[!linechar_cumsum_act](lineplot_cumsum_time_activites.png)
+[!linechar_cumsum_act](images/lineplot_cumsum_time_activites.png)
 
 
 ## Which hours was I more productive?
