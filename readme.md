@@ -141,7 +141,7 @@ The result indicates a statistically significant difference (*p* < 0.001), confi
 - **Perseverance in practice**  
   224 consecutive study days, 774 logged hours, zero voluntary breaks. The streak became non-negotiable: rain, weekends or low-energy days, the timer always started.
 
-- **Evidence-based time & fatigue management**  
+- **Time & fatigue management**  
   I assigned high-load tasks (Bear Hunter System) to the 09:00–11:00 energy peak and shifted batch-review sessions to the 16:00–18:00 window, making that slot my most productive despite the post-prandial dip. Median daily study time rose from 2.5 h (home period) to 3.4 h (library period).
 
 - **A reusable, systems-oriented pipeline**  
