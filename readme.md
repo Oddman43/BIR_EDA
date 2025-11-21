@@ -30,7 +30,7 @@ I didn’t skip a single study day from **17 Jun 2024** to **25 Jan 2025**, keep
 
 My peak week was the one right before the exam (**13–19 Jan 2025**) with **48 h** accumulated, including my all-time daily record of **9.59 h**.
 
-January leads the ranking, with October close behind. November logged noticeably fewer hours than both neighbours—a first red-flag for burnout—yet study sessions continued; the December upswing shows the fatigue was real but reversible.
+January leads the ranking, with October close behind. November logged noticeably fewer hours than both neighbours a first red-flag for burnout, yet study sessions continued and the December upswing shows the fatigue was real but reversible.
 
 ![barchart hours month](images/barplot_total_time_month.png)
 
@@ -83,7 +83,8 @@ Exam-question cards exhibited the expected trajectory, with success rates exceed
 User-generated cards displayed an inverse pattern: high accuracy in the initial months, a pronounced decline in September–October, and a subsequent recovery—most likely attributable to the large influx of new cards during that period.
 
 ![lineplot sr exam](images/lineplot_evolution_anki_exam_global_success_rate.png)
-![lineplot sr own](images/lineplot_evolution_anki_global_success_rate.png.png)
+
+![lineplot sr own](images/lineplot_evolution_anki_global_success_rate.png)
 
 At hourly resolution, the **14:00–15:00** interval shows a marked drop in success for own cards, falling below **70 %** versus the usual **> 80 %**, consistent with reviews performed during lunch breaks under divided attention.
 
