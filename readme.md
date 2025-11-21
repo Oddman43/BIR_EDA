@@ -24,7 +24,7 @@ I clocked **774.4 h** in total, averaging **3.4 h/day** (mean) and **2.99 h/day*
 
 The biggest chunk went to the *Bear Hunter System* (**336 h**, ≈ 45 %), followed by exam questions (**140 h**) and active recall (**117 h**).
 
-![linechart_cumsum_act](images/lineplot_cumsum_time_activities.png)
+![linechart_cumsum_act](images/lineplot_cumsum_time_activites.png)
 
 I didn’t skip a single study day from **17 Jun 2024** to **25 Jan 2025**, keeping a **224-day streak** alive; the leanest day was just **0.03 h** of Anki reviews.
 
