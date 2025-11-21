@@ -32,6 +32,35 @@ My peak week was the one right before the exam (**13–19 Jan 2025**) with **48 
 
 ## Which hours was I more productive?
 
+I expected the classic “early-bird” peak: 8 am – 12 pm.  
+To test it I built a day-vs-hour heat-map of focused minutes.
+
+![heatmap global](images/heatmap_global.png)
+
+The data killed my assumption.  
+Top-3 most productive slots (normalised to 0-1):
+
+1. Tue 16-17 h (1.000)  
+2. Mon 17-18 h (0.979)  
+3. Tue 17-18 h (0.967)
+
+The whole **16-18 h weekday block** beats my **10-12 h morning slot**.  
+Turns out the post pandrial deep never clocked in: 4–6 pm is when I hit peak focus.
+
+### Intresting correlations I found
+
+Week-end Anki reviews concentrated between 11:00 and 13:00, allowing the queue to be cleared early in the day.
+
+![heatmap anki review](images/heatmap_Anki_Review.png)
+
+Exam-question cards were scheduled in the afternoon, coinciding with the 16:00–18:00 peak-efficiency window.
+On weekends they were usually started at 08:00–10:00; if unfinished, they extended into 18:00–20:00.
+
+![heatmap anki exam](images/heatmap_Anki_Exam_Q.png)
+
+Bear Hunter System sessions, which demand the highest cognitive load, were systematically placed in the 09:00–11:00 weekday block, but usualy spilled over to post-lunch periods.
+
+![heatmap bhs](images/heatmap_BHS%20sys.png)
 ## Anki-related facts
 
 
