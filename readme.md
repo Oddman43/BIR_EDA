@@ -1,5 +1,14 @@
 # BIR by the Numbers: My Study Journey in Data
 
+## Table of Contents
+
+- [Why I did it](#why-i-did-it)
+- [Some funny numbers](#some-funny-numbers-descriptive-stats)
+- [Which hours was I more productive?](#which-hours-was-i-more-productive)
+- [Anki-related facts](#anki-related-facts)
+- [Library effect](#library-effect)
+
+
 ## Why I did it
 
 Last year I decided to go all-in for a spot as an Internal Resident of Biology (BIR).  
